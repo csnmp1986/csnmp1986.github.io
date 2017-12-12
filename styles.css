@@ -5,6 +5,15 @@
 	max-width: 80%;
 }
 
+/* Title */
+
+h1 {
+	margin: auto;
+	max-width: 90%;
+	font-family: 'Iceland', cursive;
+	font-size: 50px;
+	
+}
 
 
 /* Text */
@@ -20,11 +29,6 @@ p {
 }
 
 
-h1 {
-	font-family: 'Iceland', cursive;
-	font-size: 50px;
-	
-}
 
 
 /* Links */
@@ -38,5 +42,5 @@ a:link, a:visited {
 
 .footer {
 	font-family: 'Roboto', cursive;
-	font-size: 10px;
+	font-size: 14px;
 }
