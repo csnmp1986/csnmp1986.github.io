@@ -1,3 +1,11 @@
+/* Layout */
+
+.content {
+	max-width: 70%;
+}
+
+
+
 /* Text */
 
 p {
@@ -16,4 +24,4 @@ h1 {
 
 a:link, a:visited {
 	color: #33cc33;
-	}
+}
