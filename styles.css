@@ -41,6 +41,8 @@ a:link, a:visited {
 /* Footer */
 
 .footer {
+	margin-top: 50px;
 	font-family: 'Roboto', cursive;
 	font-size: 14px;
+	text-align: center;
 }
