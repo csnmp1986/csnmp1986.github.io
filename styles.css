@@ -19,6 +19,7 @@ h1 {
 /* Headers */
 
 h2 {
+	padding: 20px;
 	font-family: 'Roboto', cursive;
 	font-size: 20px;
 	font-weight: 2em;
