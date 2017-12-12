@@ -8,6 +8,11 @@
 
 /* Text */
 
+body {
+	font-family: 'Roboto', cursive;
+	font-size: 18px;
+}
+
 p {
 	font-family: 'Roboto', cursive;
 	font-size: 18px;
