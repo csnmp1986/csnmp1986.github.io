@@ -16,6 +16,14 @@ h1 {
 	
 }
 
+/* Headers */
+
+h2 {
+	font-family: 'Roboto', cursive;
+	font-size: 20px;
+	font-weight: 2em;
+}
+
 
 /* Text */
 
