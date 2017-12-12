@@ -1,7 +1,19 @@
 /* Text */
 
+p {
+	font-family: 'Roboto', cursive;
+	font-size: 18px;
+}
+
+
 h1 {
 	font-family: 'Iceland', cursive;
-	color: red;
+	font-size: 50px;
 	
 }
+
+/* Links */
+
+a:link, a:visited {
+	color: #33cc33;
+	}
