@@ -62,4 +62,7 @@ a:link, a:visited {
 
 /* Images */
 
-
+img {
+	display: block;
+	margin: auto;
+}
