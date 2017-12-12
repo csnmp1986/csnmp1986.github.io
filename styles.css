@@ -69,7 +69,7 @@ img {
 
 /* Responsive design */
 
-@media only screen and (max-width:: 768px) {
+@media only screen and (max-width: 768px) {
 	.content {max-width: 90%;
 	}
 }
