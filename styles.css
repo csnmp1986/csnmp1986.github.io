@@ -9,7 +9,7 @@
 	
 body { 
 	background-color: #000000;
-	color: #33cc33;
+	color: #7fff00;
 	font-family: 'Roboto', cursive;
 	line-height: 1.4;
 	font-size: 18px;
@@ -47,7 +47,7 @@ h2 {
 /* Links */
 
 a:link, a:visited {
-	color: #33cc33;
+	color: #7fff00;
 	}
 
 
