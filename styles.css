@@ -47,6 +47,7 @@ p {
 
 a:link, a:visited {
 	color: #33cc33;
+	text-decoration: underline;
 }
 
 
