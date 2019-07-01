@@ -3,6 +3,13 @@
 .content {
 	margin: auto;
 	max-width: 50%;
+	
+/* Background */
+	
+body { 
+	background-color: #000000;
+	color: #33cc33;
+	}
 
 
 
@@ -33,8 +40,6 @@ body {
 	line-height: 1.4;
 	font-family: 'Roboto', cursive;
 	font-size: 18px;
-	background-color: #000000;
-	color: #33cc33;
 }
 
 p {
