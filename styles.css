@@ -3,20 +3,14 @@
 .content {
 	margin: auto;
 	max-width: 50%;
-}
 
-/* Body */
-
-body {
-	background-color: #000000;
-	color: #33cc33;
-}
 
 
 /* Title */
 
 h1 {
 	margin: auto;
+	text-align: center;
 	max-width: 90%;
 	font-family: 'Iceland', cursive;
 	font-size: 50px;
@@ -39,6 +33,8 @@ body {
 	line-height: 1.4;
 	font-family: 'Roboto', cursive;
 	font-size: 18px;
+	background-color: #000000;
+	color: #33cc33;
 }
 
 p {
