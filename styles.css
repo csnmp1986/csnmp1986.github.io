@@ -4,13 +4,21 @@
 	margin: auto;
 	max-width: 50%;
 	
-/* Background */
+/* Base */
 	
 body { 
 	background-color: #000000;
 	color: #33cc33;
+	font-family: 'Roboto', cursive;
+	line-height: 1.4;
+	font-size: 18px;
 	}
-
+	
+p {
+	line-height: 1.4;
+	font-family: 'Roboto', cursive;
+	font-size: 18px;
+	}
 
 /* Title */
 
@@ -30,21 +38,6 @@ h2 {
 	font-family: 'Roboto', cursive;
 	font-size: 20px;
 	font-weight: 2em;
-}
-
-
-/* Text */
-
-body {
-	line-height: 1.4;
-	font-family: 'Roboto', cursive;
-	font-size: 18px;
-}
-
-p {
-	line-height: 1.4;
-	font-family: 'Roboto', cursive;
-	font-size: 18px;
 }
 
 
@@ -80,4 +73,3 @@ img {
 	.content {max-width: 90%;
 	}
 
-}
