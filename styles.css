@@ -49,6 +49,9 @@ h2 {
 a:link, a:visited {
 	color: #7fff00;
 	}
+a:hover {
+	color: #e68a00;
+}
 
 
 /* Footer */
