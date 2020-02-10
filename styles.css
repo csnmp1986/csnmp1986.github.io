@@ -73,6 +73,19 @@ img {
 	margin: 25px auto;
 }
 
+/* Social Media Icons */
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  background:#000000;
+  color: white;
+  border-radius:50%;	
+}
+
 /* Responsive design */
 
 @media only screen and (max-width: 768px) {
