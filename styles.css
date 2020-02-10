@@ -66,9 +66,9 @@ a:hover {
 
 /* Images */
 
-img {
+.portrait {
 	display: block;
-	margin: 40px auto;
+	margin: 50px auto;
 }
 
 /* Responsive design */
