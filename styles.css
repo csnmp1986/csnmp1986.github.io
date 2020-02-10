@@ -73,21 +73,6 @@ img {
 	margin: 25px auto;
 }
 
-/* Social Media Icons */
-
-.fa {
-  padding: 20px;
-  font-size: 30px;
-  width: 30px;
-  text-align: center;
-  text-decoration: none;
-  border-radius:50%;	
-}
-
-.fa-twitter {
-	background:#000000;
-  	color:#FFFFFF;
-}
 
 /* Responsive design */
 
