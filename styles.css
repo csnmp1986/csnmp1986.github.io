@@ -68,7 +68,9 @@ a:hover {
 
 .portrait {
 	display: block;
-	margin: 50px auto;
+	height:50px;
+	width:50px;
+	margin: auto;
 }
 
 /* Responsive design */
