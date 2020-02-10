@@ -81,9 +81,12 @@ img {
   width: 30px;
   text-align: center;
   text-decoration: none;
-  background:#000000;
-  color: white;
   border-radius:50%;	
+}
+
+.fa-twitter {
+	background:#000000;
+  	color: white;
 }
 
 /* Responsive design */
